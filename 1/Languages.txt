@@ -1,0 +1,33 @@
+With functional programming elements:
+1. Lisp
+2. Miranda
+3. Perl
+4. ML
+5. Erlang
+6. Haskell
+7. Пифагор
+8. Рефал
+9. Skala
+10. F#
+11. Java
+12. Lua
+13. C#
+14. C++
+15. Ruby
+
+Without functional programming elements
+1. Assembler
+2. Fortran
+3. Pascal
+4. Basic
+5. Cobol
+6. Ada
+7. PureBasic
+8. REXX
+9. HAL/S
+10. Modula-2
+11. Visual Basic
+12. SQL
+13. D
+14. BrainFuck
+15. Delphi
